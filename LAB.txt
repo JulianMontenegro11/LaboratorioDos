@@ -8,6 +8,18 @@ Ejercicio 1
 
 
 
+Ejercicio 2
+
+double fun_c(double *a, int n, double& promedio, double& suma){
+    int i;
+    for (i = 0; i < n; i++){
+    suma = suma + a[i];
+    promedio = suma/n;
+}
+    return promedio;
+}
+
+
 Ejercicio 3 
 
 b : 0x0A12
