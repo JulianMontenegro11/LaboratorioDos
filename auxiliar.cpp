@@ -15,3 +15,4 @@ bool numAmigable (int n){
 }
 
 
+

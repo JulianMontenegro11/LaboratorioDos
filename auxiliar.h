@@ -8,4 +8,6 @@
 bool numAmigable(int num);
 
 
+
+
 #endif // AUXILIAR_H

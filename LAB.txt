@@ -1,0 +1,42 @@
+Ejercicio 1 
+
+* direccion de memoria elemento 1 del array @0x62fdf0, cada elemento del array tiene a su disposicion 4 bytes de memoria
+
+*La direccion de memoria del elemento array[3] es 0x62fdf0 y el elemento contenido es el numero 2
+
+*La funcion fun_ al array es invertir sus terminos, el valor que se encuentra en la posicion array[9] ahora esta en la posicion array[0], el valor en la posicion array[8] ahora etara en la posicion array[1], el valos en la posicion array[7] ahora estara en la posicion array[2] y asi con todos los valores.
+
+
+
+Ejercicio 3 
+
+b : 0x0A12
+b+2: 0x0A1A
+*(b+2): 0x0A1A
+*(b+2)+1: 0x0A1C
+*(*(b+2)+1): 39
+b[3][1]:3
+*b++ se remplaza por *b+1: 0x0A14
+
+
+
+ejercicio 4
+
+https://www.tinkercad.com/things/5yzsavBb583
+
+ejercicio 5 
+
+
+https://www.tinkercad.com/things/8u0RuqtYnEU
+
+
+
+ 
+
+
+
+
+
+
+
+ 
